@@ -522,7 +522,7 @@ void TACGenerator::generateStatement(
     }
 }
 
-// GENERATE
+// Generate
 
 vector<string> TACGenerator::generate(
     const shared_ptr<Node> &root)

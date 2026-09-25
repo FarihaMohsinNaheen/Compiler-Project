@@ -55,7 +55,7 @@ public:
     string toString() const;
 };
 
-// TAC PRINT
+// TAC Print
 
 class TACPrint
 {
