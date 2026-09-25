@@ -175,7 +175,6 @@ string TACGenerator::generateExpression(
     }
 
     // NUMBER OR IDENTIFIER
-    // IMPORTANT:
 
     return node->name;
 }

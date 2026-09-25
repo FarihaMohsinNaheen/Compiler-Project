@@ -72,7 +72,7 @@ public:
     string toString() const;
 };
 
-// TAC GENERATOR
+// TAC Generator
 
 class TACGenerator
 {
