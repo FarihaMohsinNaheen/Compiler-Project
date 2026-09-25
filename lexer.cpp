@@ -268,8 +268,6 @@ vector<Token> Lexer::tokenize()
         }
 
         // BANGLA NUMBER
-        //
-        // ০ ১ ২ ৩ ৪ ৫ ৬ ৭ ৮ ৯
 
         if (
             static_cast<unsigned char>(ch) >= 0xE0)
